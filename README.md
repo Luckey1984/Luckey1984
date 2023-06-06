@@ -38,26 +38,22 @@
 ![MVC](https://img.shields.io/badge/-MVC%20&%20WebApi-%23C10066?style=flat-square&logo=monzo&logoColor=%23ffffff)
 ![ServiceStack](https://img.shields.io/badge/-ServiceStack-%23C10066?style=flat-square&logo=skypack&logoColor=%23ffffff)
 
-
-
-
-![postgresql](https://img.shields.io/badge/-PostgreSql-%23007ACC?style=flat-square&logo=postgresql&logoColor=ffffff)
+![Microsoft SQL Server](https://img.shields.io/badge/-MicrosoftSqlServer-%23888800?style=flat-square&logo=microsoftsqlserver&logoColor=ffffff)
 ![MySQL](https://img.shields.io/badge/-MySQL-%23007ACC?style=flat-square&logo=mysql&logoColor=ffffff)
 ![Redis](https://img.shields.io/badge/-Redis-%23F05032?style=flat-square&logo=redis&logoColor=%23ffffff)
 ![elasticstack](https://img.shields.io/badge/-ElasticStack-%2300DDAA?style=flat-square&logo=elasticstack&logoColor=%23ffffff)
 ![apachekafka](https://img.shields.io/badge/-Kafka-%23E93EFF?style=flat-square&logo=apachekafka&logoColor=%23ffffff)
+![postgresql](https://img.shields.io/badge/-PostgreSql-%23007ACC?style=flat-square&logo=postgresql&logoColor=ffffff)
 ![rabbitmq](https://img.shields.io/badge/-Rabbitmq-%23FF8800?style=flat-square&logo=rabbitmq&logoColor=%23ffffff)
 ![apachecassandra](https://img.shields.io/badge/-Cassandra-%23008888?style=flat-square&logo=Apachecassandra&logoColor=%23ffffff)
 ![consul](https://img.shields.io/badge/-Consul-%23C10066?style=flat-square&logo=consul&logoColor=%23ffffff)
 
-
-
+![Visual Studio](https://img.shields.io/badge/-VisualStudio-%237A0099?style=flat-square&logo=visualstudio)
+![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![resharper](https://img.shields.io/badge/-ReSharper-%23C10066?style=flat-square&logo=resharper&logoColor=%23ffffff)
 ![rider](https://img.shields.io/badge/-Rider-%23C10066?style=flat-square&logo=rider&logoColor=%23ffffff)
+![dotTrace](https://img.shields.io/badge/-dotTrace-%23C10066?style=flat-square&logo=d&logoColor=%23ffffff)
 ![LINQPad](https://img.shields.io/badge/-LINQPad-%23C10066?style=flat-square&logo=liberapay&logoColor=%23ffffff)
-![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
-![Visual Studio](https://img.shields.io/badge/-VisualStudio-%237A0099?style=flat-square&logo=visualstudio)
-![Microsoft SQL Server](https://img.shields.io/badge/-MicrosoftSqlServer-%23888800?style=flat-square&logo=microsoftsqlserver&logoColor=ffffff)
 ![postman](https://img.shields.io/badge/-Postman-%23F05032?style=flat-square&logo=postman&logoColor=%23ffffff)
 ![fiddler](https://img.shields.io/badge/-Fiddler-%23008866?style=flat-square&logo=electronfiddle&logoColor=%23ffffff)
