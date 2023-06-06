@@ -6,8 +6,8 @@
 
 - :telescope: I’m now working for Beisen.
 - :smile: I’m currently coding in C# F# and Java .
-- :heart: I like playing Onmyoji 🌩 and Crazy-racing Kart-rider :red_car:.
-- 💬 Be free to ask me about anything [here](https://github.com/ChenDaqian/ChenDaqian/issues).
+- :heart: I like playing dark souls:fire: and road cycling:bicyclist:.
+- :question: Be free to ask me about anything [here](https://github.com/ChenDaqian/ChenDaqian/issues).
 
 ### :bar_chart: My Contributions
 ![](https://raw.githubusercontent.com/ChenDaqian/ChenDaqian/main/assets/github-contribution-grid-snake.svg)
