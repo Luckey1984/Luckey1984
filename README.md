@@ -1,6 +1,6 @@
 ### :frog: Hi, I'm Chendaqian. :raised fist:
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=ChenDaqian.ChenDaqian)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Chendaqian.Chendaqian)
 [![](https://img.shields.io/badge/-Telegram-%2326A5E4?style=flat-square&logo=telegram&logoColor=ffffff)](https://t.me/chendaqian)
 [![](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=cnblogs.com/Chendaqian&down_message=cnblogs.com/Chendaqian&url=https%3A%2F%2Fcnblogs.com/Chendaqian)](https://cnblogs.com/Chendaqian)
 
