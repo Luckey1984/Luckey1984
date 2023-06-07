@@ -3,7 +3,7 @@ name: Waka Readme
 on:
   push:
     branches:
-      - master
+      - main
   workflow_dispatch:
   schedule:
     # Runs at 12am UTC
