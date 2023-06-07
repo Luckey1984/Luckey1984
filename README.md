@@ -2,23 +2,22 @@
     <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Chendaqian.Chendaqian" alt="gtihub-visitors" />
 </a>
 
+<div>
+    <img align="right" alt="GIF" src="https://github.com/Charmve/Charmve/raw/master/OctoCharmve/code.gif" width="343" height="220" title="Do what you like, and do it best!">
+
 ### :frog: Hi, I'm Chendaqian. 
 
 - :telescope: I’m now working for Beisen.
 - :smile: I’m currently coding in C# F# and Java . 
 - :gift_heart: I like playing dark souls:fire: and road cycling:bicyclist:.
 - :question: Be free to ask me about anything [here](https://github.com/ChenDaqian/ChenDaqian/issues).
-
-<img align="right" alt="GIF" src="https://github.com/Charmve/Charmve/raw/master/OctoCharmve/code.gif" width="343" height="220" title="Do what you like, and do it best!"> &nbsp;&nbsp;&nbsp;&nbsp;
-
+</div>
 
 ### :chart_with_upwards_trend: My Contributions
-![](https://raw.githubusercontent.com/ChenDaqian/ChenDaqian/main/assets/github-contribution-grid-snake.svg)
 
+![](https://raw.githubusercontent.com/ChenDaqian/ChenDaqian/main/assets/github-contribution-grid-snake.svg)
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=ChenDaqian&show_icons=true&hide_border=true">
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChenDaqian&hide_border=true">
-
-
 
 <!-- ### :wrench: 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸 -->
 
