@@ -15,14 +15,13 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=ChenDaqian&show_icons=true&hide_border=true">
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChenDaqian&hide_border=true">
 
-### :wrench: 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
+<!-- ### :wrench: 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸 -->
 
 ![sharp](https://img.shields.io/badge/-.NET%20Framework%20/%20Core-%237A0099?style=flat-square&logo=dotnet&logoColor=%23ffffff)
 ![sharp](https://img.shields.io/badge/-CSharp-%237A0099?style=flat-square&logo=sharp&logoColor=%23ffffff)
 ![sharp](https://img.shields.io/badge/-FSharp-%237A0099?style=flat-square&logo=sharp&logoColor=%23ffffff)
 ![python](https://img.shields.io/badge/-python-%23EEEE00?style=flat-square&logo=python&logoColor=%2300BBFF)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23EEEE00?style=flat-square&logo=javascript&logoColor=00BBFF&color=%23FFCE5A)
-![jQuery](https://img.shields.io/badge/-jQuery-%23C10066?style=flat-square&logo=jquery&logoColor=%23ffffff)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 
@@ -36,6 +35,7 @@
 ![EF](https://img.shields.io/badge/-EntityFramework-%23C10066?style=flat-square&logo=e&logoColor=%23ffffff)
 ![OData](https://img.shields.io/badge/-OData-%23C10066?style=flat-square&logo=opera&logoColor=%23ffffff)
 ![MVC](https://img.shields.io/badge/-MVC%20&%20WebApi-%23C10066?style=flat-square&logo=monzo&logoColor=%23ffffff)
+![jQuery](https://img.shields.io/badge/-jQuery-%23C10066?style=flat-square&logo=jquery&logoColor=%23ffffff)
 ![ServiceStack](https://img.shields.io/badge/-ServiceStack-%23C10066?style=flat-square&logo=skypack&logoColor=%23ffffff)
 
 ![Microsoft SQL Server](https://img.shields.io/badge/-MicrosoftSqlServer-%23888800?style=flat-square&logo=microsoftsqlserver&logoColor=ffffff)
