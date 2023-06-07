@@ -9,6 +9,9 @@
 - :gift_heart: I like playing dark souls:fire: and road cycling:bicyclist:.
 - :question: Be free to ask me about anything [here](https://github.com/ChenDaqian/ChenDaqian/issues).
 
+<img align="right" alt="GIF" src="OctoCharmve/code.gif" width="343" height="220" title="Do what you like, and do it best!"> &nbsp;&nbsp;&nbsp;&nbsp;
+
+
 ### :chart_with_upwards_trend: My Contributions
 ![](https://raw.githubusercontent.com/ChenDaqian/ChenDaqian/main/assets/github-contribution-grid-snake.svg)
 
