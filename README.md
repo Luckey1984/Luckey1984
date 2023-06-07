@@ -1,3 +1,7 @@
+<a href="https://github.com/Charmve/computer-vision-in-action">
+    <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Chendaqian.Chendaqian" alt="gtihub-visitors" />
+</a>
+
 ### :frog: Hi, I'm Chendaqian.  ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Chendaqian.Chendaqian)
 
 - :telescope: I’m now working for Beisen.
