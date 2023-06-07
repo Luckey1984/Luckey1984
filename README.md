@@ -15,7 +15,7 @@
 
 <!-- ### :wrench: 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸 -->
 
-[![sharp](https://img.shields.io/badge/-.NET%20Framework%20/%20Core-%237A0099?style=flat-square&logo=dotnet&logoColor=%23ffffff)](https://dotnet.microsoft.com/)
+[![sharp](https://img.shields.io/badge/-.NETFramework/Core-%237A0099?style=flat-square&logo=dotnet&logoColor=%23ffffff)](https://dotnet.microsoft.com/)
 [![sharp](https://img.shields.io/badge/-C/FSharp-%237A0099?style=flat-square&logo=sharp&logoColor=%23ffffff)](https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/)
 [![python](https://img.shields.io/badge/-Python-%23EEEE00?style=flat-square&logo=python&logoColor=%2300BBFF)](https://www.python.org/)
 [![java](https://img.shields.io/badge/-Java-%23B41717?style=flat-square&logo=joplin&logoColor=%2300BBFF)](https://www.java.com/)
