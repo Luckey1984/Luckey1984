@@ -16,6 +16,9 @@
 
 ### :chart_with_upwards_trend: My Contributions
 
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/ChenDaqian/ChenDaqian/main/assets/github-contribution-grid-snake.svg" title="Do what you like, and do it best!">
+
+
 ![](https://raw.githubusercontent.com/ChenDaqian/ChenDaqian/main/assets/github-contribution-grid-snake.svg)
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=ChenDaqian&show_icons=true&hide_border=true">
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChenDaqian&hide_border=true">
