@@ -1,8 +1,8 @@
-<a href="https://github.com/Charmve/computer-vision-in-action">
+<a href="https://visitor-badge.laobi.icu/">
     <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Chendaqian.Chendaqian" alt="gtihub-visitors" />
 </a>
 
-### :frog: Hi, I'm Chendaqian.  ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Chendaqian.Chendaqian)
+### :frog: Hi, I'm Chendaqian. 
 
 - :telescope: I’m now working for Beisen.
 - :smile: I’m currently coding in C# F# and Java . 
