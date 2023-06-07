@@ -1,17 +1,11 @@
-### :frog: Hi, I'm Chendaqian. :raised fist:
-
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Chendaqian.Chendaqian)
-
-
-![outlook](https://img.shields.io/badge/-.Email-%237A0099?style=flat-square&logo=microsoftoutlook&logoColor=%23ffffff)
-
-[![Website](https://img.shields.io/website?color=0ab9e6&style=flat-square&label=Website&up_message=CNBlogs&down_message=CNBlogs&url=https%3A%2F%2Fcnblogs.com/Chendaqian)](https://cnblogs.com/Chendaqian)
+### :frog: Hi, I'm Chendaqian.  ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Chendaqian.Chendaqian)
 
 - :telescope: I’m now working for Beisen.
 - :smile: I’m currently coding in C# F# and Java . 
-- :heart: I like playing dark souls:fire: and road cycling:bicyclist:.
+- :gift_heart: I like playing dark souls:fire: and road cycling:bicyclist:.
 - :question: Be free to ask me about anything [here](https://github.com/ChenDaqian/ChenDaqian/issues).
 
+### :chart_with_upwards_trend: My Contributions
 ![](https://raw.githubusercontent.com/ChenDaqian/ChenDaqian/main/assets/github-contribution-grid-snake.svg)
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=ChenDaqian&show_icons=true&hide_border=true">
@@ -61,54 +55,7 @@
 ![fiddler](https://img.shields.io/badge/-Fiddler-%23008866?style=flat-square&logo=electronfiddle&logoColor=%23ffffff)
 ![Mobaxterm](https://img.shields.io/badge/-Mobaxterm-%235391FE?style=flat-square&logo=powershell&logoColor=%23ffffff)
 
+### :clock830: WakaTime
+
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                71 commits          █████████░░░░░░░░░░░░░░░░   35.32 % 
-🌆 Daytime                68 commits          ████████░░░░░░░░░░░░░░░░░   33.83 % 
-🌃 Evening                28 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.93 % 
-🌙 Night                  34 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.92 % 
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday                   12 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
-Tuesday                  22 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.95 % 
-Wednesday                42 commits          █████░░░░░░░░░░░░░░░░░░░░   20.90 % 
-Thursday                 13 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.47 % 
-Friday                   28 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.93 % 
-Saturday                 57 commits          ███████░░░░░░░░░░░░░░░░░░   28.36 % 
-Sunday                   27 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.43 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-C#                       7 hrs 14 mins       ██████████░░░░░░░░░░░░░░░   39.02 % 
-Markdown                 6 hrs               ████████░░░░░░░░░░░░░░░░░   32.35 % 
-Other                    2 hrs 27 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.20 % 
-Binary                   1 hr 31 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 % 
-F#                       28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
-
-🔥 Editors: 
-Visual Studio            11 hrs 10 mins      ███████████████░░░░░░░░░░   60.11 % 
-VS Code                  7 hrs 24 mins       ██████████░░░░░░░░░░░░░░░   39.89 % 
-```
-
-**I Mostly Code in C#** 
-
-```text
-C#                       2 repos             ██████████░░░░░░░░░░░░░░░   40.00 % 
-F#                       1 repo              █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-JavaScript               1 repo              █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-TypeScript               1 repo              █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-```
-
-
-
-
- Last Updated on 07/06/2023 04:48:24 UTC
 <!--END_SECTION:waka-->
