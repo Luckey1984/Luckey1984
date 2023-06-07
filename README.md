@@ -4,7 +4,7 @@
 
 <div>
 
-<img align="right" alt="GIF" src="https://github.com/Charmve/Charmve/raw/master/OctoCharmve/code.gif" width="300" height="150" title="Do what you like, and do it best!">
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/ChenDaqian/ChenDaqian/main/assets/code.gif" width="300" height="150" title="Do what you like, and do it best!">
 
 ### :frog: Hi, I'm Chendaqian. 
 
@@ -15,9 +15,6 @@
 </div>
 
 ### :chart_with_upwards_trend: My Contributions
-
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/ChenDaqian/ChenDaqian/main/assets/github-contribution-grid-snake.svg" title="Do what you like, and do it best!">
-
 
 ![](https://raw.githubusercontent.com/ChenDaqian/ChenDaqian/main/assets/github-contribution-grid-snake.svg)
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=ChenDaqian&show_icons=true&hide_border=true">
