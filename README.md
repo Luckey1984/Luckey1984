@@ -4,7 +4,7 @@
 
 <div>
 
-<img align="right" alt="GIF" src="https://github.com/Charmve/Charmve/raw/master/OctoCharmve/code.gif" width="343" height="220" title="Do what you like, and do it best!">
+<img align="right" alt="GIF" src="https://github.com/Charmve/Charmve/raw/master/OctoCharmve/code.gif" width="300" height="150" title="Do what you like, and do it best!">
 
 ### :frog: Hi, I'm Chendaqian. 
 
