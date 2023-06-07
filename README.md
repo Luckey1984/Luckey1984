@@ -1,7 +1,10 @@
 ### :frog: Hi, I'm Chendaqian. :raised fist:
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Chendaqian.Chendaqian)
+
+
 ![outlook](https://img.shields.io/badge/-.Email-%237A0099?style=flat-square&logo=microsoftoutlook&logoColor=%23ffffff)
+
 [![Website](https://img.shields.io/website?color=0ab9e6&style=flat-square&label=Website&up_message=CNBlogs&down_message=CNBlogs&url=https%3A%2F%2Fcnblogs.com/Chendaqian)](https://cnblogs.com/Chendaqian)
 
 - :telescope: I’m now working for Beisen.
@@ -16,89 +19,6 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChenDaqian&hide_border=true">
 
 
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C549%20hrs%2051%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
-
-**🐱 My GitHub Data** 
-
-> 📦 10.0 kB Used in GitHub's Storage 
- > 
-> 🏆 119 Contributions in the Year 2023
- > 
-> 💼 Opted to Hire
- > 
-> 📜 11 Public Repositories 
- > 
-> 🔑 0 Private Repositories 
- > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                71 commits          █████████░░░░░░░░░░░░░░░░   36.22 % 
-🌆 Daytime                63 commits          ████████░░░░░░░░░░░░░░░░░   32.14 % 
-🌃 Evening                28 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-🌙 Night                  34 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.35 % 
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday                   12 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
-Tuesday                  22 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.22 % 
-Wednesday                37 commits          █████░░░░░░░░░░░░░░░░░░░░   18.88 % 
-Thursday                 13 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.63 % 
-Friday                   28 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-Saturday                 57 commits          ███████░░░░░░░░░░░░░░░░░░   29.08 % 
-Sunday                   27 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.78 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-C#                       7 hrs 14 mins       ██████████░░░░░░░░░░░░░░░   39.02 % 
-Markdown                 6 hrs               ████████░░░░░░░░░░░░░░░░░   32.35 % 
-Other                    2 hrs 27 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.20 % 
-Binary                   1 hr 31 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 % 
-F#                       28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
-
-🔥 Editors: 
-Visual Studio            11 hrs 10 mins      ███████████████░░░░░░░░░░   60.11 % 
-VS Code                  7 hrs 24 mins       ██████████░░░░░░░░░░░░░░░   39.89 % 
-
-🐱‍💻 Projects: 
-Beisen.UserFramework_All 7 hrs 35 mins       ██████████░░░░░░░░░░░░░░░   40.82 % 
-一页纸方案                    4 hrs 12 mins       ██████░░░░░░░░░░░░░░░░░░░   22.69 % 
-ChenDaqian               3 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.92 % 
-Scaffolding              1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
-Beisen.Tita.WebSite      1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   05.45 % 
-
-💻 Operating System: 
-Windows                  18 hrs 34 mins      █████████████████████████   100.00 % 
-```
-
-**I Mostly Code in C#** 
-
-```text
-C#                       2 repos             ██████████░░░░░░░░░░░░░░░   40.00 % 
-F#                       1 repo              █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-JavaScript               1 repo              █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-TypeScript               1 repo              █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/ChenDaqian/ChenDaqian/main/assets/bar_graph.png)
-
-
- Last Updated on 07/06/2023 04:25:39 UTC
-<!--END_SECTION:waka-->
 
 <!-- ### :wrench: 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸 -->
 
@@ -141,3 +61,6 @@ TypeScript               1 repo              █████░░░░░░�
 ![postman](https://img.shields.io/badge/-Postman-%23F05032?style=flat-square&logo=postman&logoColor=%23ffffff)
 ![fiddler](https://img.shields.io/badge/-Fiddler-%23008866?style=flat-square&logo=electronfiddle&logoColor=%23ffffff)
 ![Mobaxterm](https://img.shields.io/badge/-Mobaxterm-%235391FE?style=flat-square&logo=powershell&logoColor=%23ffffff)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
