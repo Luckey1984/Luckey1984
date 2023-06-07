@@ -7,14 +7,14 @@ on:
   workflow_dispatch:
   schedule:
     # Runs at 12am UTC
-    - cron: '0 5 * * *'
+    - cron: '30 18 * * *'
  
 jobs:
   update-readme:
     name: Update this repo's README 
     runs-on: ubuntu-latest
     steps:
-      - uses: ChenDaqian/waka-readme@master
+      - uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
