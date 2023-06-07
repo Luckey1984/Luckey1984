@@ -1,10 +1,7 @@
 ### :frog: Hi, I'm Chendaqian. :raised fist:
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Chendaqian.Chendaqian)
-
-
 ![outlook](https://img.shields.io/badge/-.Email-%237A0099?style=flat-square&logo=microsoftoutlook&logoColor=%23ffffff)
-
 [![Website](https://img.shields.io/website?color=0ab9e6&style=flat-square&label=Website&up_message=CNBlogs&down_message=CNBlogs&url=https%3A%2F%2Fcnblogs.com/Chendaqian)](https://cnblogs.com/Chendaqian)
 
 - :telescope: I’m now working for Beisen.
