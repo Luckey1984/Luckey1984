@@ -20,4 +20,5 @@ jobs:
           SHOW_LOC_CHART: "False"
           "SHOW_LINES_OF_CODE": "False"
           "SHOW_TOTAL_CODE_TIME": "False"
-          "SHOW_PROFILE_VIEWS": "Flase"
+          "SHOW_PROFILE_VIEWS": "False"
+          "SHOW_TIMEZONE": "False"
