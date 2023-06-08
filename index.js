@@ -25,4 +25,4 @@ const readme = `\
 ![Progress Bar CI](https://github.com/liununu/liununu/workflows/Progress%20Bar%20CI/badge.svg)\
 `
 
-console.log(readme)
+console.log('aaabbbccc'+readme)
