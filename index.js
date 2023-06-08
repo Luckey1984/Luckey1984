@@ -13,6 +13,6 @@ function generateProgressBar() {
     return `{ ${progressBar} }`
 }
 
-const readme = `\Year progress ${progressBarOfThisYear} ${(progressOfThisYear * 100).toFixed(2)} %\`
+//const readme = `\Year progress ${progressBarOfThisYear} ${(progressOfThisYear * 100).toFixed(2)} %\`
 
-console.log(readme)
+console.log(1)
