@@ -59,7 +59,9 @@
 <h2>
     <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="50" /> WakaTime
 </h2>
+
 <!--START_SECTION:waka-->
+
 ![Code Time](http://img.shields.io/badge/Code%20Time-3%2C848%20hrs%2058%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
@@ -81,6 +83,7 @@ DataGrip                 1 min               ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 
  Last Updated on 2023/08/15 09:54:29 UTC
+ 
 <!--END_SECTION:waka-->
 
 <img src="https://imgur.com/rilHVxA.png"/> 
