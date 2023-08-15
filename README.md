@@ -6,7 +6,7 @@
 <img align="right" alt="GIF" src="/assets/code.gif" width="300" height="150" title="Do what you like, and do it best!">
 
 <h2>
-    <img src="/assets/hi.gif" width="50"> Hi, I'm Chendaqian.
+    <img src="/assets/hi.gif" width="50"> hi, i'm ChenDaqian.
 </h2>
 
 - :telescope: I’m now working for Beisen.
