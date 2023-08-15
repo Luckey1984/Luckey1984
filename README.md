@@ -25,6 +25,10 @@
 <!-- 提交记录贪吃蛇 -->
 ![](https://raw.githubusercontent.com/ChenDaqian/ChenDaqian/main/assets/github-contribution-grid-snake.svg)
 
+<!-- github统计组件 -->
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=ChenDaqian&show_icons=true&hide_border=true">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChenDaqian&hide_border=true">
+
 [![sharp](https://img.shields.io/badge/-C/FSharp-%237A0099?style=flat-square&logo=sharp&logoColor=%23ffffff)](https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/)
 [![python](https://img.shields.io/badge/-Python-%23EEEE00?style=flat-square&logo=python&logoColor=%2300BBFF)](https://www.python.org/)
 [![java](https://img.shields.io/badge/-Java-%23B41717?style=flat-square&logo=joplin&logoColor=%2300BBFF)](https://www.java.com/)
@@ -44,9 +48,7 @@
 [![DotTrace](https://img.shields.io/badge/-dotTrace-%23C10066?style=flat-square&logo=d&logoColor=%23ffffff)](https://www.jetbrains.com/profiler/)
 [![LINQPad](https://img.shields.io/badge/-LINQPad-%23C10066?style=flat-square&logo=liberapay&logoColor=%23ffffff)](https://www.linqpad.net/)
 
-<!-- github统计组件 -->
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=ChenDaqian&show_icons=true&hide_border=true">
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChenDaqian&hide_border=true">
+
 
 <h2>
     <img alt="GIF" src="/assets/dev.gif" width="50" /> WakaTime
