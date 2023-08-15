@@ -3,20 +3,29 @@
 </a>
 
 <div>
-
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/ChenDaqian/ChenDaqian/main/assets/code.gif" width="300" height="150" title="Do what you like, and do it best!">
 
-### :frog: Hi, I'm Chendaqian. 
+<h2>
+    <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Hi, I'm Chendaqian.
+</h2>
 
 - :telescope: I’m now working for Beisen.
 - :smile: I’m currently coding in C# F# and Java . 
 - :gift_heart: I like playing dark souls:fire: and road cycling:bicyclist:.
 - :question: Be free to ask me about anything [here](https://github.com/ChenDaqian/ChenDaqian/issues).
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=change+the+world+by+coding)](https://git.io/typing-svg)
+
 </div>
 
-### :chart_with_upwards_trend: My Contributions
+<h2>
+    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> My Contributions
+</h2>
 
+<!-- 提交记录贪吃蛇 -->
 ![](https://raw.githubusercontent.com/ChenDaqian/ChenDaqian/main/assets/github-contribution-grid-snake.svg)
+
+<!-- github统计组件 -->
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=ChenDaqian&show_icons=true&hide_border=true">
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChenDaqian&hide_border=true">
 
@@ -62,8 +71,9 @@
 [![fiddler](https://img.shields.io/badge/-Fiddler-%23008866?style=flat-square&logo=electronfiddle&logoColor=%23ffffff)](https://www.telerik.com/fiddler)
 [![Mobaxterm](https://img.shields.io/badge/-Mobaxterm-%235391FE?style=flat-square&logo=powershell&logoColor=%23ffffff)](https://mobaxterm.mobatek.net/)
 
-### :clock830: WakaTime
-
+<h2>
+    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> WakaTime
+</h2>
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-3%2C848%20hrs%2058%20mins-blue)
 
