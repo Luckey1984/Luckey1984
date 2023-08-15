@@ -19,7 +19,7 @@
 </div>
 
 <h2>
-    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> My Contributions
+    <img src="/assets/mc.gif" width="50"> My Contributions
 </h2>
 
 <!-- 提交记录贪吃蛇 -->
@@ -57,7 +57,7 @@
 [![LINQPad](https://img.shields.io/badge/-LINQPad-%23C10066?style=flat-square&logo=liberapay&logoColor=%23ffffff)](https://www.linqpad.net/)
 
 <h2>
-    <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="50" /> WakaTime
+    <img alt="GIF" src="/assets/dev.gif" width="50" /> WakaTime
 </h2>
 
 <!--START_SECTION:waka-->
@@ -86,4 +86,4 @@ DataGrip                 1 min               ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
  
 <!--END_SECTION:waka-->
 
-<img src="https://imgur.com/rilHVxA.png"/> 
+<img src="/assets/end.png"/> 
