@@ -29,16 +29,12 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=ChenDaqian&show_icons=true&hide_border=true">
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChenDaqian&hide_border=true">
 
-<!-- ### :wrench: 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸 -->
 
 [![sharp](https://img.shields.io/badge/-C/FSharp-%237A0099?style=flat-square&logo=sharp&logoColor=%23ffffff)](https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/)
 [![python](https://img.shields.io/badge/-Python-%23EEEE00?style=flat-square&logo=python&logoColor=%2300BBFF)](https://www.python.org/)
 [![java](https://img.shields.io/badge/-Java-%23B41717?style=flat-square&logo=joplin&logoColor=%2300BBFF)](https://www.java.com/)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-%23EEEE00?style=flat-square&logo=javascript&logoColor=00BBFF&color=%23FFCE5A)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
-
-[![MicrosoftSqlServer](https://img.shields.io/badge/-MicrosoftSqlServer-%23888800?style=flat-square&logo=microsoftsqlserver&logoColor=ffffff)](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
-[![MySQL](https://img.shields.io/badge/-MySQL-%23007ACC?style=flat-square&logo=mysql&logoColor=ffffff)](https://www.mysql.com/com/)
 [![Redis](https://img.shields.io/badge/-Redis-%23F05032?style=flat-square&logo=redis&logoColor=%23ffffff)](https://redis.io/)
 [![elasticstack](https://img.shields.io/badge/-ElasticStack-%2300DDAA?style=flat-square&logo=elasticstack&logoColor=%23ffffff)](https://www.elastic.co/cn/)
 [![apachekafka](https://img.shields.io/badge/-Kafka-%23ED2B88?style=flat-square&logo=apachekafka&logoColor=%23ffffff)](https://kafka.apache.org/)
@@ -50,10 +46,7 @@
 [![Visual Studio](https://img.shields.io/badge/-VisualStudio-%237A0099?style=flat-square&logo=visualstudio)](https://visualstudio.microsoft.com/z)
 [![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)](https://code.visualstudio.com/)
 [![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)](https://git-scm.com/)
-[![resharper](https://img.shields.io/badge/-ReSharper-%23C10066?style=flat-square&logo=resharper&logoColor=%23ffffff)](https://www.jetbrains.com/resharper/)
-[![rider](https://img.shields.io/badge/-Rider-%23C10066?style=flat-square&logo=rider&logoColor=%23ffffff)](https://www.jetbrains.com/rider/)
-[![dotTrace](https://img.shields.io/badge/-dotTrace-%23C10066?style=flat-square&logo=d&logoColor=%23ffffff)](https://www.jetbrains.com/profiler/)
-[![DataGrip](https://img.shields.io/badge/-datagrip-%23C10066?style=flat-square&logo=datagrip&logoColor=%23ffffff)](https://www.jetbrains.com/datagrip/)
+[![DotTrace](https://img.shields.io/badge/-dotTrace-%23C10066?style=flat-square&logo=d&logoColor=%23ffffff)](https://www.jetbrains.com/profiler/)
 [![LINQPad](https://img.shields.io/badge/-LINQPad-%23C10066?style=flat-square&logo=liberapay&logoColor=%23ffffff)](https://www.linqpad.net/)
 
 <h2>
