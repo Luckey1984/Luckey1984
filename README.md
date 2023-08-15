@@ -47,10 +47,7 @@
 [![Visual Studio](https://img.shields.io/badge/-VisualStudio-%237A0099?style=flat-square&logo=visualstudio)](https://visualstudio.microsoft.com/z)
 [![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)](https://code.visualstudio.com/)
 [![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)](https://git-scm.com/)
-[![resharper](https://img.shields.io/badge/-ReSharper-%23C10066?style=flat-square&logo=resharper&logoColor=%23ffffff)](https://www.jetbrains.com/resharper/)
-[![rider](https://img.shields.io/badge/-Rider-%23C10066?style=flat-square&logo=rider&logoColor=%23ffffff)](https://www.jetbrains.com/rider/)
 [![dotTrace](https://img.shields.io/badge/-dotTrace-%23C10066?style=flat-square&logo=d&logoColor=%23ffffff)](https://www.jetbrains.com/profiler/)
-[![DataGrip](https://img.shields.io/badge/-datagrip-%23C10066?style=flat-square&logo=datagrip&logoColor=%23ffffff)](https://www.jetbrains.com/datagrip/)
 [![LINQPad](https://img.shields.io/badge/-LINQPad-%23C10066?style=flat-square&logo=liberapay&logoColor=%23ffffff)](https://www.linqpad.net/)
 
 <h2>
