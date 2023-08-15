@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 📜 my github page
+    url: https://github.com/ChenDaqian/ChenDaqian
+    about: my github page repository
+  - name: 👀 my blog
+    url: https://www.cnblogs.com/
+    about: my cn blog
