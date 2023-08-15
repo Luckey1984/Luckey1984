@@ -3,7 +3,7 @@
 </a>
 
 <div>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/ChenDaqian/ChenDaqian/main/assets/code.gif" width="300" height="150" title="Do what you like, and do it best!">
+<img align="right" alt="GIF" src="/assets/code.gif" width="300" height="150" title="Do what you like, and do it best!">
 
 <h2>
     <img src="/assets/hi.gif" width="50"> Hi, I'm Chendaqian.
