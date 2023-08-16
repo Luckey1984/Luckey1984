@@ -20,8 +20,6 @@
 [![python](https://img.shields.io/badge/-Python-%23EEEE00?style=flat-square&logo=python&logoColor=%2300BBFF)](https://www.python.org/)
 [![java](https://img.shields.io/badge/-Java-%23B41717?style=flat-square&logo=joplin&logoColor=%2300BBFF)](https://www.java.com/)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-%23EEEE00?style=flat-square&logo=javascript&logoColor=00BBFF&color=%23FFCE5A)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-
-
 [![Microsoft SQL Server](https://img.shields.io/badge/-MicrosoftSqlServer-%23888800?style=flat-square&logo=microsoftsqlserver&logoColor=ffffff)](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
 [![MySQL](https://img.shields.io/badge/-MySQL-%23007ACC?style=flat-square&logo=mysql&logoColor=ffffff)](https://www.mysql.com/com/)
 [![Redis](https://img.shields.io/badge/-Redis-%23F05032?style=flat-square&logo=redis&logoColor=%23ffffff)](https://redis.io/)
@@ -31,7 +29,6 @@
 [![rabbitmq](https://img.shields.io/badge/-Rabbitmq-%23FF8800?style=flat-square&logo=rabbitmq&logoColor=%23ffffff)](https://www.rabbitmq.com/)
 [![apachecassandra](https://img.shields.io/badge/-Cassandra-%23008888?style=flat-square&logo=Apachecassandra&logoColor=%23ffffff)](https://cassandra.apache.org/_/index.html)
 [![consul](https://img.shields.io/badge/-Consul-%23C10066?style=flat-square&logo=consul&logoColor=%23ffffff)](https://www.consul.io/)
-
 [![Visual Studio](https://img.shields.io/badge/-VisualStudio-%237A0099?style=flat-square&logo=visualstudio)](https://visualstudio.microsoft.com/z)
 [![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)](https://code.visualstudio.com/)
 [![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)](https://git-scm.com/)
