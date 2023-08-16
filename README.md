@@ -36,9 +36,6 @@
 [![datagrip](https://img.shields.io/badge/-DataGrip-%23C10066?style=flat-square&logo=datagrip&logoColor=%23ffffff)](https://www.jetbrains.com/datagrip/)
 [![dotTrace](https://img.shields.io/badge/-dotTrace-%23C10066?style=flat-square&logo=d&logoColor=%23ffffff)](https://www.jetbrains.com/profiler/)
 [![LINQPad](https://img.shields.io/badge/-LINQPad-%23C10066?style=flat-square&logo=liberapay&logoColor=%23ffffff)](https://www.linqpad.net/)
-[![postman](https://img.shields.io/badge/-Postman-%23F05032?style=flat-square&logo=postman&logoColor=%23ffffff)](https://www.postman.com/)
-[![fiddler](https://img.shields.io/badge/-Fiddler-%23008866?style=flat-square&logo=electronfiddle&logoColor=%23ffffff)](https://www.telerik.com/fiddler)
-[![Mobaxterm](https://img.shields.io/badge/-Mobaxterm-%235391FE?style=flat-square&logo=powershell&logoColor=%23ffffff)](https://mobaxterm.mobatek.net/)
 
 </div>
 
