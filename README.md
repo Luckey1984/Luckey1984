@@ -9,7 +9,7 @@
     <img src="/assets/hi.gif" width="50"> hi, i'm ChenDaqian.
 </h2>
 
-- :telescope: I’m now working for Beisen.
+- :telescope: I’m now working for <a href="https://www.beisen.com/" title="CNBlogs" target="_blank">Beisen</a>.
 - :smile: I’m currently coding in C# F# and Java . 
 - :gift_heart: I like playing dark souls:fire: and road cycling:bicyclist:.
 - :question: Be free to ask me about anything [here](https://github.com/ChenDaqian/ChenDaqian/issues).
