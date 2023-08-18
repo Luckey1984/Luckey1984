@@ -14,7 +14,7 @@
 - :gift_heart: I like playing dark souls:fire: and road cycling:bicyclist:.
 - :question: Be free to ask me about anything [here](https://github.com/ChenDaqian/ChenDaqian/issues).
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=change+the+world+by+coding)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Code+changes+the+world)](https://git.io/typing-svg)
 
 [![sharp](https://img.shields.io/badge/-C/FSharp-%237A0099?style=flat-square&logo=sharp&logoColor=%23ffffff)](https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/)
 [![python](https://img.shields.io/badge/-Python-%23EEEE00?style=flat-square&logo=python&logoColor=%2300BBFF)](https://www.python.org/)
