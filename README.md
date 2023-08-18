@@ -11,7 +11,7 @@
 
 - :telescope: I’m now working for <a href="https://www.beisen.com/" title="Beisen">Beisen</a>.
 - :smile: currently coding in <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" title="CSharp">C#</a> and <a href="https://www.java.com/en/" title="Java">Java</a>. 
-- :gift_heart: I like playing <a href="https://www.xbox.com/en-us/games/store/dark-souls-remastered/BS18VCF4NLQ9/0001" title="DarkSouls">DarkSouls</a>:fire: and <a href="https://specialized.com.cn/?lang=en" title="specialized">road cycling</a>:bicyclist:.
+- :gift_heart: I like playing <a href="https://www.xbox.com/en-us/games/store/dark-souls-remastered/BS18VCF4NLQ9/0001" title="DarkSouls">DarkSouls</a>:fire: and <a href="https://specialized.com.cn/?lang=en" title="specialized">Road cycling</a>:bicyclist:.
 - :question: Be free to ask me about anything <a href="https://github.com/ChenDaqian/ChenDaqian/issues" title="issues">here</a>.
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Code+changes+the+world)](https://git.io/typing-svg)
