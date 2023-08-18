@@ -16,7 +16,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Code+changes+the+world)](https://git.io/typing-svg)
 
-[![sharp](https://img.shields.io/badge/-C/FSharp-%237A0099?style=flat-square&logo=sharp&logoColor=%23ffffff)](https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/)
+[![sharp](https://img.shields.io/badge/-CSharp-%237A0099?style=flat-square&logo=sharp&logoColor=%23ffffff)](https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/)
 [![python](https://img.shields.io/badge/-Python-%23EEEE00?style=flat-square&logo=python&logoColor=%2300BBFF)](https://www.python.org/)
 [![java](https://img.shields.io/badge/-Java-%23B41717?style=flat-square&logo=joplin&logoColor=%2300BBFF)](https://www.java.com/)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-%23EEEE00?style=flat-square&logo=javascript&logoColor=00BBFF&color=%23FFCE5A)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
