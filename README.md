@@ -10,8 +10,8 @@
 </h2>
 
 - :telescope: I’m now working for <a href="https://www.beisen.com/" title="Beisen">Beisen</a>.
-- :smile: I’m currently coding in C# F# and Java . 
-- :gift_heart: I like playing dark souls:fire: and road cycling:bicyclist:.
+- :smile: I’m currently coding in C# and Java . 
+- :gift_heart: I like playing <a href="https://www.xbox.com/en-us/games/store/dark-souls-remastered/BS18VCF4NLQ9/0001" title="DarkSouls">DarkSouls</a>:fire: and <a href="https://specialized.com.cn/?lang=en" title="specialized">road cycling</a>:bicyclist:.
 - :question: Be free to ask me about anything [here](https://github.com/ChenDaqian/ChenDaqian/issues).
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Code+changes+the+world)](https://git.io/typing-svg)
