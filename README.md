@@ -79,4 +79,4 @@ DataGrip                 1 min               ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
  Last Updated on 2023/08/16 06:12:37 UTC
 <!--END_SECTION:waka-->
 
-<img src="/assets/end.png"/> 
+<img src="/assets/end.webp"/> 
