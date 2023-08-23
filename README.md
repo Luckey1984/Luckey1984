@@ -56,7 +56,7 @@
 </h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C896%20hrs%2017%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C896%20hrs%2042%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -76,7 +76,7 @@ DataGrip                 3 mins              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ```
 
 
- Last Updated on 2023/08/23 06:12:47 UTC
+ Last Updated on 2023/08/23 12:18:13 UTC
 <!--END_SECTION:waka-->
 
 <img src="/assets/end.webp"/> 
