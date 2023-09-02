@@ -25,15 +25,15 @@
 [![elasticstack](/images/elasticstack.svg)](https://www.elastic.co/cn/)
 [![apachekafka](/images/kafka.svg)](https://kafka.apache.org/)
 [![rabbitmq](/images/rabbitmq.svg)](https://www.rabbitmq.com/)
-[![apachecassandra](/images/cassandra.svg)](https://cassandra.apache.org/_/index.html)
+[![apachecassandra](/images/cassandra.svg)](https://cassandra.apache.org/index.html)&nbsp;
 [![consul](/images/consul.svg)](https://www.consul.io/)
 [![Visual Studio](/images/visualstudio.svg)](https://visualstudio.microsoft.com/z)
-[![VS Code](/images/vscode.svg)](https://code.visualstudio.com/)
+[![VS Code](/images/vscode.svg)](https://code.visualstudio.com/)&nbsp;
+[![LINQPad](/images/linqpad.svg)](https://www.linqpad.net/)
 [![Git](/images/git.svg)](https://git-scm.com/)
 [![resharper](/images/resharper.svg)](https://www.jetbrains.com/resharper/)
-[![datagrip](/images/datagrip.svg)](https://www.jetbrains.com/datagrip/)
+[![datagrip](/images/datagrip.svg)](https://www.jetbrains.com/datagrip/)&nbsp;
 [![dotTrace](/images/dottrace.svg)](https://www.jetbrains.com/profiler/)
-[![LINQPad](/images/linqpad.svg)](https://www.linqpad.net/)
 
 </div>
 
