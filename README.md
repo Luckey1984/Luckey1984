@@ -4,12 +4,11 @@
 
 <div>
 <img align="right" alt="GIF" src="/images/code.gif" width="300" height="150" title="do what you like, and do it best">
-<h2>
-    <img src="/images/hi.gif" width="50"> hi, i'm ChenDaqian.
-</h2>
+
+## <img src="/images/hi.gif" width="50"> hi, i'm ChenDaqian.
 
 - :telescope: I’m now working for <a href="https://www.beisen.com/" target="_blank" title="Beisen">Beisen</a>.
-- :smile: currently coding in <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" title="CSharp">C#</a>and <a href="https://www.java.com/en/" target="_blank" title="Java">Java</a>. 
+- :smile: currently coding in <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" title="CSharp">C#</a> and <a href="https://dev.java" target="_blank" title="Java">Java</a>. 
 - :gift_heart: I like playing <a href="https://www.xbox.com/en-us/games/store/DARK-SOULS-III/BW2XDRNSCCPZ" target="_blank" title="DarkSouls">DarkSouls</a>:fire: and <a href="https://specialized.com.cn/?lang=en" title="specialized" target="_blank">Road cycling</a>:bicyclist:.
 - :question: Be free to ask me about anything <a href="https://github.com/ChenDaqian/ChenDaqian/issues" target="_blank" title="issues">here</a>.
 
@@ -72,4 +71,4 @@ DataGrip                 1 min               ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
  Last Updated on 2023/09/02 12:16:11 UTC
 <!--END_SECTION:waka-->
 
-<img src="/images/end.webp"/> 
+[end.webp"](/images/end.webp)
