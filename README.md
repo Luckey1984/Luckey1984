@@ -1,18 +1,17 @@
 <a href="https://visitor-badge.laobi.icu/">
-    <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Chendaqian.Chendaqian" alt="gtihub-visitors" />
+    <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Chendaqian.Chendaqian" title="gtihub-visitors" alt="gtihub-visitors" />
 </a>
 
 <div>
-<img align="right" alt="GIF" src="/images/code.gif" width="300" height="150" title="Do what you like, and do it best!">
-
+<img align="right" alt="GIF" src="/images/code.gif" width="300" height="150" title="do what you like, and do it best">
 <h2>
     <img src="/images/hi.gif" width="50"> hi, i'm ChenDaqian.
 </h2>
 
-- :telescope: I’m now working for <a href="https://www.beisen.com/" title="Beisen">Beisen</a>.
-- :smile: currently coding in <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" title="CSharp">C#</a> and <a href="https://www.java.com/en/" title="Java">Java</a>. 
-- :gift_heart: I like playing <a href="https://www.xbox.com/en-us/games/store/dark-souls-remastered/BS18VCF4NLQ9/0001" title="DarkSouls">DarkSouls</a>:fire: and <a href="https://specialized.com.cn/?lang=en" title="specialized">Road cycling</a>:bicyclist:.
-- :question: Be free to ask me about anything <a href="https://github.com/ChenDaqian/ChenDaqian/issues" title="issues">here</a>.
+- :telescope: I’m now working for <a href="https://www.beisen.com/" target="_blank" title="Beisen">Beisen</a>.
+- :smile: currently coding in <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" title="CSharp">C#</a>and <a href="https://www.java.com/en/" target="_blank" title="Java">Java</a>. 
+- :gift_heart: I like playing <a href="https://www.xbox.com/en-us/games/store/DARK-SOULS-III/BW2XDRNSCCPZ" target="_blank" title="DarkSouls">DarkSouls</a>:fire: and <a href="https://specialized.com.cn/?lang=en" title="specialized" target="_blank">Road cycling</a>:bicyclist:.
+- :question: Be free to ask me about anything <a href="https://github.com/ChenDaqian/ChenDaqian/issues" target="_blank" title="issues">here</a>.
 
 [![Typing SVG](/images/code.svg)](https://git.io/typing-svg)
 
@@ -39,21 +38,15 @@
 
 </div>
 
-<h2>
-    <img src="/images/mc.gif" width="50"> My Contributions
-</h2>
+## <img src="/images/mc.gif" width="50"> My Contributions
 
-<!-- 提交记录贪吃蛇 -->
-![](https://raw.githubusercontent.com/ChenDaqian/ChenDaqian/main/assets/github-contribution-grid-snake.svg)
+[![commit snk](https://raw.githubusercontent.com/chendaqian/chendaqian/output/github-contribution-grid-snake.svg)](https://github.com/Platane/snk)
 
 <!-- github统计组件 -->
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=ChenDaqian&show_icons=true&hide_border=true">
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChenDaqian&hide_border=true">
 
-
-<h2>
-    <img alt="GIF" src="/images/dev.gif" width="50" /> WakaTime
-</h2>
+## <img alt="GIF" src="/images/dev.gif" width="50" /> WakaTime
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-3%2C950%20hrs%2056%20mins-blue)
