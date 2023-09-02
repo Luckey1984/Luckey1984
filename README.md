@@ -7,10 +7,10 @@
 
 ## <img src="/images/hi.gif" width="50"> hi, i'm ChenDaqian.
 
-- :telescope: I’m now working for [Beisen](https://www.beisen.com/).
-- :smile: currently coding in <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" title="CSharp">C#</a> and <a href="https://dev.java" target="_blank" title="Java">Java</a>. 
-- :gift_heart: I like playing <a href="https://www.xbox.com/en-us/games/store/DARK-SOULS-III/BW2XDRNSCCPZ" target="_blank" title="DarkSouls">DarkSouls</a>:fire: and <a href="https://specialized.com.cn/?lang=en" title="specialized" target="_blank">Road cycling</a>:bicyclist:.
-- :question: Be free to ask me about anything <a href="https://github.com/ChenDaqian/ChenDaqian/issues" target="_blank" title="issues">here</a>.
+- :telescope: I’m now working for [Beisen](https://beisen.com).
+- :smile: currently coding in [CSharp](https://learn.microsoft.com/en-us/dotnet/csharp) and [Java](https://dev.java"). 
+- :gift_heart: I like playing [DarkSouls](https://www.xbox.com/en-us/games/store/DARK-SOULS-III/BW2XDRNSCCPZ):fire: and [Road cyclin](https://specialized.com.cn/?lang=en):bicyclist:.
+- :question: Be free to ask me about anything [here](https://github.com/ChenDaqian/ChenDaqian/issue).
 
 [![Typing SVG](/images/code.svg)](https://git.io/typing-svg)
 
