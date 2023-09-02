@@ -7,7 +7,7 @@
 
 ## <img src="/images/hi.gif" width="50"> hi, i'm ChenDaqian.
 
-- :telescope: I’m now working for [Beisen](https://beisen.com).
+- :telescope: I’m now working for [Beisen](https://www.beisen.com).
 - :smile: currently coding in [CSharp](https://learn.microsoft.com/en-us/dotnet/csharp) and [Java](https://dev.java"). 
 - :gift_heart: I like playing [DarkSouls](https://www.xbox.com/en-us/games/store/DARK-SOULS-III/BW2XDRNSCCPZ):fire: and [Road cyclin](https://specialized.com.cn/?lang=en):bicyclist:.
 - :question: Be free to ask me about anything [here](https://github.com/ChenDaqian/ChenDaqian/issue).
@@ -20,10 +20,10 @@
 [![JavaScript](/images/js.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Microsoft SQL Server](/images/mssql.svg)](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
 [![MySQL](/images/mysql.svg)](https://www.mysql.com/com/)
+[![postgresql](/images/pgsql.svg)](https://www.postgresql.org/)
 [![Redis](/images/redis.svg)](https://redis.io/)
 [![elasticstack](/images/elasticstack.svg)](https://www.elastic.co/cn/)
 [![apachekafka](/images/kafka.svg)](https://kafka.apache.org/)
-[![postgresql](/images/pgsql.svg)](https://www.postgresql.org/)
 [![rabbitmq](/images/rabbitmq.svg)](https://www.rabbitmq.com/)
 [![apachecassandra](/images/cassandra.svg)](https://cassandra.apache.org/_/index.html)
 [![consul](/images/consul.svg)](https://www.consul.io/)
