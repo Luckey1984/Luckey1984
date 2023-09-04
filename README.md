@@ -37,6 +37,14 @@
 
 </div>
 
+## <img src="/images/mc.gif" width="50"> My Contributions
+
+[![commit snk](https://raw.githubusercontent.com/chendaqian/chendaqian/output/github-contribution-grid-snake.svg)](https://github.com/Platane/snk)
+
+<!-- github统计组件 -->
+<img align="left" style="width: 400px;height: 250px;max-width: 100%;padding-right: 0px;" src="https://github-readme-stats.vercel.app/api?username=ChenDaqian&show_icons=true&hide_border=true">
+<img align="right" style="max-width: 100%;height: 250px;width: 250px;padding-left: 0px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChenDaqian&hide_border=true">
+
 ## <img alt="GIF" src="/images/dev.gif" width="50" /> WakaTime
 
 <!--START_SECTION:waka-->
@@ -62,13 +70,5 @@ DataGrip                 1 min               ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
  Last Updated on 2023/09/04 06:13:35 UTC
 <!--END_SECTION:waka-->
-
-## <img src="/images/mc.gif" width="50"> My Contributions
-
-[![commit snk](https://raw.githubusercontent.com/chendaqian/chendaqian/output/github-contribution-grid-snake.svg)](https://github.com/Platane/snk)
-
-<!-- github统计组件 -->
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=ChenDaqian&show_icons=true&hide_border=true">
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChenDaqian&hide_border=true">
 
 ![end.webp](/images/end.webp)
