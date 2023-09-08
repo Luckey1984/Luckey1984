@@ -1,5 +1,5 @@
 <a href="https://visitor-badge.laobi.icu/">
-    <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Chendaqian.Chendaqian" title="gtihub-visitors" alt="gtihub-visitors" />
+    <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Chendaqian.Chendaqian&left_color=red&left_text=Visitors" title="gtihub-visitors" alt="gtihub-visitors" />
 </a>
 
 <div>
